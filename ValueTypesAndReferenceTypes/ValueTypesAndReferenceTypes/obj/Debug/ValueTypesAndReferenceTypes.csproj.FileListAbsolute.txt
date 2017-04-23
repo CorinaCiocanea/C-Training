@@ -1,0 +1,6 @@
+F:\technical\C# training\ValueTypesAndReferenceTypes\ValueTypesAndReferenceTypes\bin\Debug\ValueTypesAndReferenceTypes.exe.config
+F:\technical\C# training\ValueTypesAndReferenceTypes\ValueTypesAndReferenceTypes\bin\Debug\ValueTypesAndReferenceTypes.exe
+F:\technical\C# training\ValueTypesAndReferenceTypes\ValueTypesAndReferenceTypes\bin\Debug\ValueTypesAndReferenceTypes.pdb
+F:\technical\C# training\ValueTypesAndReferenceTypes\ValueTypesAndReferenceTypes\obj\Debug\ValueTypesAndReferenceTypes.csprojResolveAssemblyReference.cache
+F:\technical\C# training\ValueTypesAndReferenceTypes\ValueTypesAndReferenceTypes\obj\Debug\ValueTypesAndReferenceTypes.exe
+F:\technical\C# training\ValueTypesAndReferenceTypes\ValueTypesAndReferenceTypes\obj\Debug\ValueTypesAndReferenceTypes.pdb
