@@ -4,3 +4,17 @@ F:\technical\C# training\ValueTypesAndReferenceTypes\ValueTypesAndReferenceTypes
 F:\technical\C# training\ValueTypesAndReferenceTypes\ValueTypesAndReferenceTypes\obj\Debug\ValueTypesAndReferenceTypes.csprojResolveAssemblyReference.cache
 F:\technical\C# training\ValueTypesAndReferenceTypes\ValueTypesAndReferenceTypes\obj\Debug\ValueTypesAndReferenceTypes.exe
 F:\technical\C# training\ValueTypesAndReferenceTypes\ValueTypesAndReferenceTypes\obj\Debug\ValueTypesAndReferenceTypes.pdb
+C:\Users\dragos\Git\C-Training\ValueTypesAndReferenceTypes\ValueTypesAndReferenceTypes\bin\Debug\ValueTypesAndReferenceTypes.exe.config
+C:\Users\dragos\Git\C-Training\ValueTypesAndReferenceTypes\ValueTypesAndReferenceTypes\obj\Debug\ValueTypesAndReferenceTypes.exe
+C:\Users\dragos\Git\C-Training\ValueTypesAndReferenceTypes\ValueTypesAndReferenceTypes\obj\Debug\ValueTypesAndReferenceTypes.pdb
+C:\Users\dragos\Git\C-Training\ValueTypesAndReferenceTypes\ValueTypesAndReferenceTypes\bin\Debug\ValueTypesAndReferenceTypes.exe
+C:\Users\dragos\Git\C-Training\ValueTypesAndReferenceTypes\ValueTypesAndReferenceTypes\bin\Debug\ValueTypesAndReferenceTypes.pdb
+C:\Users\dragos\Git\C-Training\ValueTypesAndReferenceTypes\ValueTypesAndReferenceTypes\bin\Debug\mscorlib.dll
+C:\Users\dragos\Git\C-Training\ValueTypesAndReferenceTypes\ValueTypesAndReferenceTypes\bin\Debug\System.Net.Http.dll
+C:\Users\dragos\Git\C-Training\ValueTypesAndReferenceTypes\ValueTypesAndReferenceTypes\bin\Debug\System.Net.Http.xml
+C:\Users\dragos\Git\C-Training\ValueTypesAndReferenceTypes\ValueTypesAndReferenceTypes\bin\Debug\normidna.nlp
+C:\Users\dragos\Git\C-Training\ValueTypesAndReferenceTypes\ValueTypesAndReferenceTypes\bin\Debug\normnfc.nlp
+C:\Users\dragos\Git\C-Training\ValueTypesAndReferenceTypes\ValueTypesAndReferenceTypes\bin\Debug\normnfd.nlp
+C:\Users\dragos\Git\C-Training\ValueTypesAndReferenceTypes\ValueTypesAndReferenceTypes\bin\Debug\normnfkc.nlp
+C:\Users\dragos\Git\C-Training\ValueTypesAndReferenceTypes\ValueTypesAndReferenceTypes\bin\Debug\normnfkd.nlp
+C:\Users\dragos\Git\C-Training\ValueTypesAndReferenceTypes\ValueTypesAndReferenceTypes\obj\Debug\ValueTypesAndReferenceTypes.csprojResolveAssemblyReference.cache
