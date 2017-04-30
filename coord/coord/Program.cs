@@ -6,8 +6,7 @@ using System.Threading.Tasks;
 
 namespace coord
 {
-
-    public struct Coordinate
+    internal struct Coordinate
     {
         public int x;
         public int y;
@@ -17,8 +16,11 @@ namespace coord
     {
         public static void AttemptToModifyCoord(Coordinate coord)
         {
+
             coord.x = 1;
             coord.y = 3;
+
+
         }
         public static void ModifyCoord(ref Coordinate coord)
         {

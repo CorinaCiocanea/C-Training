@@ -10,16 +10,27 @@ namespace fact
     {
         static void Main(string[] args)
         {
-            int n, c, fact;
+            //foreach(string a in args)
+            //{
+            //    System.Console.WriteLine(a);
+            //}
+         
             System.Console.WriteLine("number is: ");
-            n = int.Parse(Console.ReadLine());
+            int n = int.Parse(Console.ReadLine());
+           
+            Console.WriteLine("The number you entered was {0} and it's factorial is {1}", n, Factorial(n));
+            Console.ReadLine();
+        }
+
+        static int Factorial(int n)
+        {
+            int c, fact;
             fact = n;
             for (c = n - 1; c >= 1; c--)
             {
                 fact = fact * c;
             }
-            Console.WriteLine("The number you entered was {0} and it's factorial is {1}", n, fact);
-            Console.ReadLine();
+            return fact;
         }
     }
 }

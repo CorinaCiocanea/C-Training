@@ -3,3 +3,9 @@ D:\DRAGOS\exemple c#\coord\coord\bin\Debug\coord.exe
 D:\DRAGOS\exemple c#\coord\coord\bin\Debug\coord.pdb
 D:\DRAGOS\exemple c#\coord\coord\obj\Debug\coord.exe
 D:\DRAGOS\exemple c#\coord\coord\obj\Debug\coord.pdb
+f:\technical\C# training\coord\coord\obj\Debug\coord.csprojResolveAssemblyReference.cache
+f:\technical\C# training\coord\coord\obj\Debug\coord.exe
+f:\technical\C# training\coord\coord\obj\Debug\coord.pdb
+f:\technical\C# training\coord\coord\bin\Debug\coord.exe.config
+f:\technical\C# training\coord\coord\bin\Debug\coord.exe
+f:\technical\C# training\coord\coord\bin\Debug\coord.pdb

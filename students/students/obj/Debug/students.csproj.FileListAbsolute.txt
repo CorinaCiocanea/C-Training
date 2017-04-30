@@ -4,3 +4,9 @@ D:\DRAGOS\exemple c#\students\students\bin\Debug\students.pdb
 D:\DRAGOS\exemple c#\students\students\obj\Debug\students.csprojResolveAssemblyReference.cache
 D:\DRAGOS\exemple c#\students\students\obj\Debug\students.exe
 D:\DRAGOS\exemple c#\students\students\obj\Debug\students.pdb
+F:\technical\C# training\students\students\bin\Debug\students.exe.config
+F:\technical\C# training\students\students\bin\Debug\students.exe
+F:\technical\C# training\students\students\bin\Debug\students.pdb
+F:\technical\C# training\students\students\obj\Debug\students.csprojResolveAssemblyReference.cache
+F:\technical\C# training\students\students\obj\Debug\students.exe
+F:\technical\C# training\students\students\obj\Debug\students.pdb

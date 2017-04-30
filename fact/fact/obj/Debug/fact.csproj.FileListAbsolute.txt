@@ -4,3 +4,9 @@ D:\DRAGOS\exemple c#\fact\fact\bin\Debug\fact.pdb
 D:\DRAGOS\exemple c#\fact\fact\obj\Debug\fact.csprojResolveAssemblyReference.cache
 D:\DRAGOS\exemple c#\fact\fact\obj\Debug\fact.exe
 D:\DRAGOS\exemple c#\fact\fact\obj\Debug\fact.pdb
+F:\technical\C# training\fact\fact\bin\Debug\fact.exe.config
+F:\technical\C# training\fact\fact\bin\Debug\fact.exe
+F:\technical\C# training\fact\fact\bin\Debug\fact.pdb
+F:\technical\C# training\fact\fact\obj\Debug\fact.csprojResolveAssemblyReference.cache
+F:\technical\C# training\fact\fact\obj\Debug\fact.exe
+F:\technical\C# training\fact\fact\obj\Debug\fact.pdb

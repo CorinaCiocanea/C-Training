@@ -22,7 +22,7 @@ namespace ConsoleApplication2
     {
         static void Main(string[] args)
         {
-            User[] users = new User[5] { new User("Tom" , 23),  
+            User[] users = new User[5]{ new User("Tom" , 23),  
                                          new User("Max" , 20),
                                          new User("Eli" , 25),
                                          new User("Marve" , 22),
@@ -35,7 +35,7 @@ namespace ConsoleApplication2
                 }
 
 
-                int maxAge = users.Max(user => user.Age);
+            int maxAge = users.Where(x => x.Name.Contains('a')).Max(user => user.Name.Count());
 
                 foreach (User user in users)
                 {
